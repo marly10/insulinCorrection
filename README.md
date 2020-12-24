@@ -1,2 +1,2 @@
 # insulinCorrection
-IOS Application that allows families who struggle to manage Blood Sugar Level some ease in calculating the correction dosage.
+IOS Application that allows an extra help in claculating Blood Sugar Level.
